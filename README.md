@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hossein Ahmadian</h1>
-<h3 align="center">A MERNstack devloper</h3>
+<h3 align="center">A front-end devloper</h3>
+
+- 🏫 I'm studying software engineering at Shiraz university
 
 - 🔭 I’m currently working on [snack Shop](https://github.com/DOTL-Amir-R/snackShop)
 
@@ -8,6 +10,9 @@
 - 📫 How to reach me **mohammadhossdinahmadian@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohammamad hossein ahmadian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammamad hossein ahmadian" height="30" width="40" /></a>
+</p>
 <p align="left">
 </p>
 
